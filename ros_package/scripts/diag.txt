@@ -1,0 +1,388 @@
+header: 
+  seq: 5466
+  stamp: 
+    secs: 1563261615
+    nsecs: 241794334
+  frame_id: ''
+status: 
+  - 
+    level: 1
+    name: "mavros: FCU connection"
+    message: "not connected"
+    hardware_id: "/dev/ttyACM0:57600"
+    values: 
+      - 
+        key: "Received packets:"
+        value: "23637"
+      - 
+        key: "Dropped packets:"
+        value: "0"
+      - 
+        key: "Buffer overruns:"
+        value: "0"
+      - 
+        key: "Parse errors:"
+        value: "0"
+      - 
+        key: "Rx sequence number:"
+        value: "183"
+      - 
+        key: "Tx sequence number:"
+        value: "250"
+      - 
+        key: "Rx total bytes:"
+        value: "4047987"
+      - 
+        key: "Tx total bytes:"
+        value: "2338951"
+      - 
+        key: "Rx speed:"
+        value: "0.000000"
+      - 
+        key: "Tx speed:"
+        value: "460.000000"
+  - 
+    level: 0
+    name: "mavros: GPS"
+    message: "3D fix"
+    hardware_id: "/dev/ttyACM0:57600"
+    values: 
+      - 
+        key: "Satellites visible"
+        value: "8"
+      - 
+        key: "Fix type"
+        value: "3"
+      - 
+        key: "EPH (m)"
+        value: "1.11"
+      - 
+        key: "EPV (m)"
+        value: "1.61"
+  - 
+    level: 2
+    name: "mavros: Heartbeat"
+    message: "No events recorded."
+    hardware_id: "/dev/ttyACM0:57600"
+    values: 
+      - 
+        key: "Heartbeats since startup"
+        value: "6802"
+      - 
+        key: "Frequency (Hz)"
+        value: "0.000000"
+      - 
+        key: "Vehicle type"
+        value: "Quadrotor"
+      - 
+        key: "Autopilot type"
+        value: "ArduPilot"
+      - 
+        key: "Mode"
+        value: "STABILIZE"
+      - 
+        key: "System status"
+        value: "Standby"
+  - 
+    level: 0
+    name: "mavros: System"
+    message: "Normal"
+    hardware_id: "/dev/ttyACM0:57600"
+    values: 
+      - 
+        key: "Sensor present"
+        value: "0x0360FD2F"
+      - 
+        key: "Sensor enabled"
+        value: "0x00601D2F"
+      - 
+        key: "Sensor helth"
+        value: "0x0160FD2F"
+      - 
+        key: "3D gyro"
+        value: "Ok"
+      - 
+        key: "3D accelerometer"
+        value: "Ok"
+      - 
+        key: "3D magnetometer"
+        value: "Ok"
+      - 
+        key: "absolute pressure"
+        value: "Ok"
+      - 
+        key: "GPS"
+        value: "Ok"
+      - 
+        key: "laser based position"
+        value: "Ok"
+      - 
+        key: "3D angular rate control"
+        value: "Ok"
+      - 
+        key: "attitude stabilization"
+        value: "Ok"
+      - 
+        key: "yaw position"
+        value: "Ok"
+      - 
+        key: "AHRS subsystem health"
+        value: "Ok"
+      - 
+        key: "Terrain subsystem health"
+        value: "Ok"
+      - 
+        key: "CPU Load (%)"
+        value: "49.7"
+      - 
+        key: "Drop rate (%)"
+        value: "0.0"
+      - 
+        key: "Errors comm"
+        value: "0"
+      - 
+        key: "Errors count #1"
+        value: "0"
+      - 
+        key: "Errors count #2"
+        value: "0"
+      - 
+        key: "Errors count #3"
+        value: "0"
+      - 
+        key: "Errors count #4"
+        value: "0"
+  - 
+    level: 1
+    name: "mavros: Battery"
+    message: "Low voltage"
+    hardware_id: "/dev/ttyACM0:57600"
+    values: 
+      - 
+        key: "Voltage"
+        value: "0.00"
+      - 
+        key: "Current"
+        value: "-0.0"
+      - 
+        key: "Remaining"
+        value: "-1.0"
+  - 
+    level: 2
+    name: "mavros: Time Sync"
+    message: "No events recorded."
+    hardware_id: "/dev/ttyACM0:57600"
+    values: 
+      - 
+        key: "Timesyncs since startup"
+        value: "68062"
+      - 
+        key: "Frequency (Hz)"
+        value: "0.000000"
+      - 
+        key: "Last RTT (ms)"
+        value: "10041.594736"
+      - 
+        key: "Mean RTT (ms)"
+        value: "8.660799"
+      - 
+        key: "Last remote time (s)"
+        value: "6877.624956000"
+      - 
+        key: "Estimated time offset (s)"
+        value: "1563254383.694509029"
+---
+header: 
+  seq: 5467
+  stamp: 
+    secs: 1563261616
+    nsecs: 741383132
+  frame_id: ''
+status: 
+  - 
+    level: 1
+    name: "mavros: FCU connection"
+    message: "not connected"
+    hardware_id: "/dev/ttyACM0:57600"
+    values: 
+      - 
+        key: "Received packets:"
+        value: "23637"
+      - 
+        key: "Dropped packets:"
+        value: "0"
+      - 
+        key: "Buffer overruns:"
+        value: "0"
+      - 
+        key: "Parse errors:"
+        value: "0"
+      - 
+        key: "Rx sequence number:"
+        value: "183"
+      - 
+        key: "Tx sequence number:"
+        value: "13"
+      - 
+        key: "Rx total bytes:"
+        value: "4047987"
+      - 
+        key: "Tx total bytes:"
+        value: "2339451"
+      - 
+        key: "Rx speed:"
+        value: "0.000000"
+      - 
+        key: "Tx speed:"
+        value: "500.000000"
+  - 
+    level: 0
+    name: "mavros: GPS"
+    message: "3D fix"
+    hardware_id: "/dev/ttyACM0:57600"
+    values: 
+      - 
+        key: "Satellites visible"
+        value: "8"
+      - 
+        key: "Fix type"
+        value: "3"
+      - 
+        key: "EPH (m)"
+        value: "1.11"
+      - 
+        key: "EPV (m)"
+        value: "1.61"
+  - 
+    level: 2
+    name: "mavros: Heartbeat"
+    message: "No events recorded."
+    hardware_id: "/dev/ttyACM0:57600"
+    values: 
+      - 
+        key: "Heartbeats since startup"
+        value: "6802"
+      - 
+        key: "Frequency (Hz)"
+        value: "0.000000"
+      - 
+        key: "Vehicle type"
+        value: "Quadrotor"
+      - 
+        key: "Autopilot type"
+        value: "ArduPilot"
+      - 
+        key: "Mode"
+        value: "STABILIZE"
+      - 
+        key: "System status"
+        value: "Standby"
+  - 
+    level: 0
+    name: "mavros: System"
+    message: "Normal"
+    hardware_id: "/dev/ttyACM0:57600"
+    values: 
+      - 
+        key: "Sensor present"
+        value: "0x0360FD2F"
+      - 
+        key: "Sensor enabled"
+        value: "0x00601D2F"
+      - 
+        key: "Sensor helth"
+        value: "0x0160FD2F"
+      - 
+        key: "3D gyro"
+        value: "Ok"
+      - 
+        key: "3D accelerometer"
+        value: "Ok"
+      - 
+        key: "3D magnetometer"
+        value: "Ok"
+      - 
+        key: "absolute pressure"
+        value: "Ok"
+      - 
+        key: "GPS"
+        value: "Ok"
+      - 
+        key: "laser based position"
+        value: "Ok"
+      - 
+        key: "3D angular rate control"
+        value: "Ok"
+      - 
+        key: "attitude stabilization"
+        value: "Ok"
+      - 
+        key: "yaw position"
+        value: "Ok"
+      - 
+        key: "AHRS subsystem health"
+        value: "Ok"
+      - 
+        key: "Terrain subsystem health"
+        value: "Ok"
+      - 
+        key: "CPU Load (%)"
+        value: "49.7"
+      - 
+        key: "Drop rate (%)"
+        value: "0.0"
+      - 
+        key: "Errors comm"
+        value: "0"
+      - 
+        key: "Errors count #1"
+        value: "0"
+      - 
+        key: "Errors count #2"
+        value: "0"
+      - 
+        key: "Errors count #3"
+        value: "0"
+      - 
+        key: "Errors count #4"
+        value: "0"
+  - 
+    level: 1
+    name: "mavros: Battery"
+    message: "Low voltage"
+    hardware_id: "/dev/ttyACM0:57600"
+    values: 
+      - 
+        key: "Voltage"
+        value: "0.00"
+      - 
+        key: "Current"
+        value: "-0.0"
+      - 
+        key: "Remaining"
+        value: "-1.0"
+  - 
+    level: 2
+    name: "mavros: Time Sync"
+    message: "No events recorded."
+    hardware_id: "/dev/ttyACM0:57600"
+    values: 
+      - 
+        key: "Timesyncs since startup"
+        value: "68062"
+      - 
+        key: "Frequency (Hz)"
+        value: "0.000000"
+      - 
+        key: "Last RTT (ms)"
+        value: "10041.594736"
+      - 
+        key: "Mean RTT (ms)"
+        value: "8.660799"
+      - 
+        key: "Last remote time (s)"
+        value: "6877.624956000"
+      - 
+        key: "Estimated time offset (s)"
+        value: "1563254383.694509029"
+---
